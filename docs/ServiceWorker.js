@@ -1,5 +1,5 @@
-const baseURL = './';
-const indexURL = './index.html';
+const baseURL = '/';
+const indexURL = '/index.html';
 const networkFetchEvent = 'fetch';
 const swInstallEvent = 'install';
 const swInstalledEvent = 'installed';
@@ -7,7 +7,7 @@ const swActivateEvent = 'activate';
 const staticCachePrefix = 'blazor-cache-v';
 const staticCacheName = 'blazor-cache-v1';
 const requiredFiles = [
-"./_framework/blazor.boot.json",
+"/_framework/blazor.boot.json",
 "/_framework/blazor.server.js",
 "/_framework/blazor.webassembly.js",
 "/_framework/wasm/mono.js",
