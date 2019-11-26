@@ -60,7 +60,6 @@ const requiredFiles = [
 "/favicon.ico",
 "/index.html",
 "/sample-data/weather.json",
-//"/web.config",
 "/ServiceWorkerRegister.js",
 "/manifest.json"
 ];
