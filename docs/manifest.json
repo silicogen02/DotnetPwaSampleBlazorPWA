@@ -1,7 +1,7 @@
 {
   "short_name": "DotnetPwaSampleSln",
   "name": "DotnetPwaSampleBlazorPWA",
-  "start_url": "/DotnetPwaSampleBlazorPWA/",
+  "start_url": "/DotnetPwaSampleBlazorPWA1/",
   "display": "standalone",
   "icons": [
     {
@@ -14,11 +14,5 @@
       "type": "image/png",
       "sizes": "512x512"
     }
-    //,
-    //{
-    //  "src": "favicon.ico",
-    //  "type": "image/png",
-    //  "sizes": "128x128"
-    //}
   ]
 }
