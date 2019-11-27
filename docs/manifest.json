@@ -1,6 +1,6 @@
 {
-  "short_name": "DotnetPwaSampleSln",
-  "name": "DotnetPwaSampleBlazorPWA",
+  "short_name": "BlazorPWA",
+  "name": "Blazor PWA",
   "start_url": "./",
   "display": "standalone",
   "icons": [
